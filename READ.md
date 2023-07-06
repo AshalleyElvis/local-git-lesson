@@ -1,3 +1,4 @@
-#Git-lesson
-##I am learning Git and Github
+# Git-lesson
+## I am learning Git and Github
 I still dont know what you want to read.
+Its *fascinating* but quite **confusing**.
