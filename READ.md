@@ -14,3 +14,17 @@ You can order by;
 3. Download the zip **file**
 
 ![The best you can get](./suede.jpg "Makra Suede 5")
+
+## For more information
+Contact us by the following means.
+<dl>
+    <dt>
+        Whatsapp line
+        <dd>
+            05599591233
+        </dd>
+    </dt>
+    <dt>Twitter
+        <dd>@AshalleyElvis</dd>
+    </dt>
+</dl>
